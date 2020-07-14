@@ -8,9 +8,9 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-### Specialties / Sub-specialties:-
+## Specialties / Sub-specialties:-
 
-Analytics:
+### Analytics:
 
  Machine Learning
 
@@ -32,35 +32,49 @@ Analytics:
 
  AutoML [ Pycaret,Bamboolib,Sweetviz,AutoViml,Autoviz,Autosklearn,AutoGluon,H20,Dask,Vaex,Tpot ]
 
-Analytics Tools:
+### Analytics Tools:
+
  Python [ Spyder, PYCHARM, Jupyter ]
+
  MS-Excel
+
  MATLAB
 
-Databases (DBMS):
+### Databases (DBMS):
+
  Structured Query Language :- MYSQL
+
  NoSQL :- MONGODB
 
-Big data Tools:
+### Big data Tools:
+
  Pyspark ( Loading.....!!!! )
 
-BI Tools for Visualization:
+### BI Tools for Visualization:
+
  Tableau
+
  Plotly
 
-Web-Scraping:
+### Web-Scraping:
+
  Beautiful-Soup
+
  Selenium
 
-API:
+### API:
+
  FLASK
+
  Streamlit
 
-Cloud (Model Deployment):
+### Cloud (Model Deployment):
+
  AWS (Sagemaker,EC-2,S3)
+
  Heroku
 
-Chatbots:
+### Chatbots:
  Rasa-NLU
 
 ### Summary👋
