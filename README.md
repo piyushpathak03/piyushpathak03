@@ -1,10 +1,14 @@
 ### Hi there 👋
+<p  align="center"><img height="500" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 Data analytics professional offering 3+ years of experience in descriptive & predictive Analytics. Worked in pivotal roles that required simplifying the business functions, revenue-stream, sales-forecasting, competitive analysis and risk management of Business .Skilled with ability to interact with personnel from different backgrounds and supported organizations in drafting and allocating resources necessary to attain their long and short terms goals and has been involved in various roles i.e. Team Leader, business development, Data Analyst & Risk Manager.
 
 Eager to learn and grow in advance analytics space that supports the organization in streamlining their work and make their business practices cost and time effective.
 
-Specialties / Sub-specialties:-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+### Specialties / Sub-specialties:-
 
 Analytics:
  Machine Learning
@@ -49,5 +53,12 @@ Cloud (Model Deployment):
 Chatbots:
  Rasa-NLU
 
-You can reach me out at anirudhrapathak@gmail.com 
-Follow me @ https://www.linkedin.com/in/piyushpathak03/
+### Summary👋
+- 🔭 Working on ML, DL, CV, and Blockchain projects.
+- 👯 Looking to collaborate on anything related to ML and Blockchain projects.
+- 💬 Open to connect and contribution.
+- 📫 Follw me: [Linkedin](https://www.linkedin.com/in/piyushpathak03/)
+- 📫 Author: [Medium](https://medium.com/@piyushpathak03)
+
+[![Linkedin Badge](https://img.shields.io/badge/-piyushpathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+[![Gmail Badge](https://img.shields.io/badge/-anirudhrapathak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirudhrapathak@gmail.com)](mailto:anirudhrapathak@gmail.com)
