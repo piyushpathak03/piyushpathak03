@@ -5,6 +5,7 @@ I'm a data analytics professional offering 3+ years of experience in descriptive
 Eager to learn and grow in advance analytics space that supports the organization in streamlining their work and make their business practices cost and time effective.
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 ## Specialties / Sub-specialties:-
 
 ### Analytics:
@@ -67,9 +68,9 @@ Eager to learn and grow in advance analytics space that supports the organizatio
  Rasa-NLU
 
 ### Summary👋
-- 🔭 Working on ML, DL, CV, and Blockchain projects.
-- 👯 Looking to collaborate on anything related to ML and Blockchain projects.
-- 💬 Open to connect and contribution.
+- 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
+- 👯 Looking to collaborate for ML,DL,CV and Blockchain projects.
+- 💬 Open to connect and contribute towards data science community
 - 📫 Follw me: [Linkedin](https://www.linkedin.com/in/piyushpathak03/)
 - 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03)
 
