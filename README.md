@@ -11,15 +11,25 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 ### Specialties / Sub-specialties:-
 
 Analytics:
+
  Machine Learning
+
  Artificial Intelligence
+
  Natural Language Processing [ NLTK ]
+
  Computer Vision
+
  Time Series Analysis
+
  Market Basket Analysis
+
  Anomaly detection
+
  Recommendation System
+
  Descriptive & Inferential Statistics
+
  AutoML [ Pycaret,Bamboolib,Sweetviz,AutoViml,Autoviz,Autosklearn,AutoGluon,H20,Dask,Vaex,Tpot ]
 
 Analytics Tools:
