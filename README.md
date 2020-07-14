@@ -78,5 +78,5 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 
 [![Gmail Badge](https://img.shields.io/badge/-anirudhrapathak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirudhrapathak@gmail.com)](mailto:anirudhrapathak@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
-[![HackerRank Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=hackerrank&logoColor=black&link=https://www.hackerrank.com/PIYUSHPATHAK)](https://www.hackerrank.com/PIYUSHPATHAK)
+[![HackerRank Badge](https://img.shields.io/badge/-PiyushPathak-black?style=flat-circle&logo=hackerrank&logoColor=green&link=https://www.hackerrank.com/PIYUSHPATHAK)](https://www.hackerrank.com/PIYUSHPATHAK)
 
