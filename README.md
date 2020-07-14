@@ -77,6 +77,6 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 - 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03)
 
 [![Gmail Badge](https://img.shields.io/badge/-anirudhrapathak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirudhrapathak@gmail.com)](mailto:anirudhrapathak@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Piyush Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
-[![HackerRank Badge](https://img.shields.io/badge/-Piyush Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.hackerrank.com/PIYUSHPATHAK)](https://www.hackerrank.com/PIYUSHPATHAK)
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+[![HackerRank Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.hackerrank.com/PIYUSHPATHAK)](https://www.hackerrank.com/PIYUSHPATHAK)
 
