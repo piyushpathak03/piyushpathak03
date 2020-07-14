@@ -11,7 +11,6 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 ## Specialties / Sub-specialties:-
 
 ### Analytics:
-
  Machine Learning
 
  Artificial Intelligence
@@ -33,7 +32,6 @@ Eager to learn and grow in advance analytics space that supports the organizatio
  AutoML [ Pycaret,Bamboolib,Sweetviz,AutoViml,Autoviz,Autosklearn,AutoGluon,H20,Dask,Vaex,Tpot ]
 
 ### Analytics Tools:
-
  Python [ Spyder, PYCHARM, Jupyter ]
 
  MS-Excel
@@ -41,35 +39,29 @@ Eager to learn and grow in advance analytics space that supports the organizatio
  MATLAB
 
 ### Databases (DBMS):
-
  Structured Query Language :- MYSQL
 
  NoSQL :- MONGODB
 
 ### Big data Tools:
-
  Pyspark ( Loading.....!!!! )
 
 ### BI Tools for Visualization:
-
  Tableau
 
  Plotly
 
 ### Web-Scraping:
-
  Beautiful-Soup
 
  Selenium
 
 ### API:
-
  FLASK
 
  Streamlit
 
 ### Cloud (Model Deployment):
-
  AWS (Sagemaker,EC-2,S3)
 
  Heroku
@@ -82,7 +74,9 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 - 👯 Looking to collaborate on anything related to ML and Blockchain projects.
 - 💬 Open to connect and contribution.
 - 📫 Follw me: [Linkedin](https://www.linkedin.com/in/piyushpathak03/)
-- 📫 Author: [Medium](https://medium.com/@piyushpathak03)
+- 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03)
 
-[![Linkedin Badge](https://img.shields.io/badge/-piyushpathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
 [![Gmail Badge](https://img.shields.io/badge/-anirudhrapathak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirudhrapathak@gmail.com)](mailto:anirudhrapathak@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Piyush Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+[![HackerRank Badge](https://img.shields.io/badge/-Piyush Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.hackerrank.com/PIYUSHPATHAK)](https://www.hackerrank.com/PIYUSHPATHAK)
+
