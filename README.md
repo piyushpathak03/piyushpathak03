@@ -75,9 +75,8 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 - 👯 Looking to collaborate for ML,DL,CV and Blockchain projects.
 - 💬 Open to connect and contribute towards data science community
 - 📫 Follw me: [Linkedin](https://www.linkedin.com/in/piyushpathak03/)
-- 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03)
+- 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03) <p  align="center"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
 
-<p  align="center"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
 [![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
 [![Gmail Badge](https://img.shields.io/badge/-PiyushPathak-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:anirudhrapathak@gmail.com)](mailto:anirudhrapathak@gmail.com)
 [![HackerRank Badge](https://img.shields.io/badge/-PiyushPathak-black?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/PIYUSHPATHAK)](https://www.hackerrank.com/PIYUSHPATHAK)
