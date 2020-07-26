@@ -68,7 +68,7 @@ Eager to learn and grow in advance analytics space that supports the organizatio
  Rasa-NLU
 
 ### Featured Video:
-<p  align="center"><img height="300" src = "https://media.giphy.com/media/h7F51wxBXkB02EnyIP/giphy.gif"></p>
+<p  align="center"><img height="300" src = "https://media.giphy.com/media/ih4Cuk0i9R2W152Ljr/giphy.gif"></p>
 
 ### Summary👋
 - 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
