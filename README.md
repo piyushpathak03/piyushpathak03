@@ -29,8 +29,6 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 
  AutoML [ Pycaret,Bamboolib,Sweetviz,AutoViml,Autoviz,Autosklearn,AutoGluon,H20,Dask,Vaex,Tpot ]
 
-![Piyush Pathak](100.jpg)
-
 ### Analytics Tools:
  Python [ Spyder, PYCHARM, Jupyter ]
 
@@ -68,6 +66,9 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 
 ### Chatbots:
  Rasa-NLU
+
+### Featured Video:
+<p  align="center"><img height="500" src = "https://media.giphy.com/media/h7F51wxBXkB02EnyIP/giphy.gif"></p>
 
 ### Summary👋
 - 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
