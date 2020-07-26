@@ -1,5 +1,3 @@
-(100.jpg)
-
 <p  align="center"><img height="500" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
@@ -30,6 +28,8 @@ Eager to learn and grow in advance analytics space that supports the organizatio
  Descriptive & Inferential Statistics
 
  AutoML [ Pycaret,Bamboolib,Sweetviz,AutoViml,Autoviz,Autosklearn,AutoGluon,H20,Dask,Vaex,Tpot ]
+
+![Piyush Pathak](100.jpg)
 
 ### Analytics Tools:
  Python [ Spyder, PYCHARM, Jupyter ]
