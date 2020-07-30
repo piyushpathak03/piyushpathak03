@@ -6,66 +6,10 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-## Specialties / Sub-specialties:-
-
-### Analytics:
- Machine Learning
-
- Artificial Intelligence
-
- Natural Language Processing [ NLTK ]
-
- Computer Vision
-
- Time Series Analysis
-
- Market Basket Analysis
-
- Anomaly detection
-
- Recommendation System
-
- Descriptive & Inferential Statistics
-
- AutoML [ Pycaret,Bamboolib,Sweetviz,AutoViml,Autoviz,Autosklearn,AutoGluon,H20,Dask,Vaex,Tpot ]
-
-### Analytics Tools:
- Python [ Spyder, PYCHARM, Jupyter ]
-
- MS-Excel
-
- MATLAB
-
-### Databases (DBMS):
- Structured Query Language :- MYSQL
-
- NoSQL :- MONGODB
-
-### Big data Tools:
- Pyspark ( Loading.....!!!! )
-
-### BI Tools for Visualization:
- Tableau
-
- Plotly
-
-### Web-Scraping:
- Beautiful-Soup
-
- Selenium
-
-### API:
- FLASK
-
- Streamlit
-
-### Cloud (Model Deployment):
- AWS (Sagemaker,EC-2,S3)
-
- Heroku
-
-### Chatbots:
- Rasa-NLU
+## 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻 You can reach me out for detailed information at .👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
+                     
+                     https://anirudhrapathak3.wixsite.com/piyush 
+                     
 
 ### Featured Video:
 <p  align="center"><img height="300" src = "https://media.giphy.com/media/ih4Cuk0i9R2W152Ljr/giphy.gif"></p>
