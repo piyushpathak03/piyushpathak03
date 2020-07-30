@@ -14,8 +14,6 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 ### Featured Video:
 <p  align="center"><img height="300" src = "https://media.giphy.com/media/ih4Cuk0i9R2W152Ljr/giphy.gif"></p>
 
-<video src="https://www.youtube.com/watch?v=j2gipG0yBVM&list=LL_kzgdbnLcpwPeaUXFmdhcg&index=22&t=0s"  width="500" height="400">
-
 ### Summary👋
 - 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
 - 👯 Looking to collaborate for ML,DL,CV and Blockchain projects.
