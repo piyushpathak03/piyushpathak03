@@ -7,8 +7,7 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ###            👇🏻👇🏻👇🏻👇🏻 You can reach me out for detailed information at .👇🏻👇🏻👇🏻👇🏻
-                     
-                                     [**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+   [**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
                                              https://anirudhrapathak3.wixsite.com/piyush 
                      
 
