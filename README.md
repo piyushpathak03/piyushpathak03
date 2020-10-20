@@ -1,3 +1,4 @@
+# [Ayushi Rawat](https://anirudhrapathak3.wixsite.com/piyush)
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
@@ -11,7 +12,9 @@ Eager to learn and grow in advance analytics space that supports the organizatio
                                              https://anirudhrapathak3.wixsite.com/piyush 
                      
 
-### Featured Video:
+### Featured Video  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<!-- Namaste 🙏 -->
+ <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->:
 <p  align="center"><img height="300" src = "https://media.giphy.com/media/ih4Cuk0i9R2W152Ljr/giphy.gif"></p>
 
 ### Summary👋
