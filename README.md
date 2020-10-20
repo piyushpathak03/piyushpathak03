@@ -1,4 +1,4 @@
-                                              # [PIYUSH PATHAK](https://anirudhrapathak3.wixsite.com/piyush)
+   # [PIYUSH PATHAK](https://anirudhrapathak3.wixsite.com/piyush)
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
@@ -21,6 +21,7 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 - 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
 - 👯 Looking to collaborate for ML,DL,CV and Blockchain projects.
 - 💬 Open to connect and contribute towards data science community
+- <table><tr><td valign="top" width="50%">
 
 - 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03) 
 - 📫 Follw me: 
