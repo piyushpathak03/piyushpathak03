@@ -21,7 +21,7 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 - 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
 - 👯 Looking to collaborate for ML,DL,CV and Blockchain projects.
 - 💬 Open to connect and contribute towards data science community
-- <table><tr><td valign="top" width="50%">
+
 
 - 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03) 
 - 📫 Follw me: 
