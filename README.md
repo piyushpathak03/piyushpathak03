@@ -1,4 +1,4 @@
-# [Ayushi Rawat](https://anirudhrapathak3.wixsite.com/piyush)
+# [PIYUSH PATHAK](https://anirudhrapathak3.wixsite.com/piyush)
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
