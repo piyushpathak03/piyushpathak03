@@ -2,8 +2,9 @@
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm a data analytics professional offering 4+ years of experience in descriptive & predictive Analytics. Worked in pivotal roles that required simplifying the business functions, revenue-stream, sales-forecasting, competitive analysis and risk management of Business .Skilled with ability to interact with personnel from different backgrounds and supported organizations in drafting and allocating resources necessary to attain their long and short terms goals and has been involved in various roles i.e. Data Scientist, Business Analyst,Team Leader, business development, Data Analyst & Risk Manager.
-Eager to learn and grow in advance analytics space that supports the organization in streamlining their work and make their business practices cost and time effective.
+Full stack AI professional offering 5 years of experience in descriptive, predictive Analytics, story building, business strategies and leading data science professionals for building and delivering the global fortune 500 client’s solutions. Worked in pivotal roles that required simplifying the business functions, revenue-stream, sales-forecasting, competitive analysis and risk management of Business .Skilled with ability to interact with personnel from different backgrounds and supported organizations in drafting and allocating resources necessary to attain their long and short terms goals and has been involved in various roles i.e. Team Leader, business development, Data Analyst & Risk Manager.
+
+Eager to learn and grow in advance analytics space that supports the organization in streamlining their work and make their business practices cost and time effective. Mentored 200+ professionals for their data science career.
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
