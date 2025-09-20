@@ -2,7 +2,7 @@
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-Full stack AI professional offering 6+ years of experience in descriptive, predictive Analytics, story building, business strategies and leading data science professionals for building and delivering the global fortune 500 client’s solutions. Worked in pivotal roles that required simplifying the business functions, revenue-stream, sales-forecasting, competitive analysis and risk management of Business .Skilled with ability to interact with personnel from different backgrounds and supported organizations in drafting and allocating resources necessary to attain their long and short terms goals and has been involved in various roles i.e. Team Leader, business development, Data Analyst & Risk Manager.
+Full stack AI professional offering 9 years of experience in descriptive, predictive Analytics, story building, business strategies and leading data science professionals for building and delivering the global fortune 500 client’s solutions. Worked in pivotal roles that required simplifying the business functions, revenue-stream, sales-forecasting, competitive analysis and risk management of Business .Skilled with ability to interact with personnel from different backgrounds and supported organizations in drafting and allocating resources necessary to attain their long and short terms goals and has been involved in various roles i.e. Team Leader, business development, Data Analyst & Risk Manager.
 
 Eager to learn and grow in advance analytics space that supports the organization in streamlining their work and make their business practices cost and time effective. Mentored 400+ professionals for their data science career.
 
@@ -19,8 +19,8 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 ### Summary <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-- 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
-- 👯 Looking to collaborate for ML,DL,CV and Blockchain projects.
+- 🔭 Researcher: Machine Learning,Deep Learning,AutoML, Computer Vision, Large Language Models, Agentic AI and RAG.
+- 👯 Looking to collaborate for ML, DL, CV, Gen AI, LLM and Blockchain projects.
 - 💬 Open to connect and contribute towards data science community
 
 
