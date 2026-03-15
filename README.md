@@ -105,53 +105,66 @@ print(me.mission())
 
 <div align="center">
 
-**🤖 &nbsp;Core AI / ML / Deep Learning**
+<table>
+<tr><td align="center" colspan="2">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,keras,opencv&theme=dark&perline=6" />
+<!-- ── ROW 1: Core AI / ML ── -->
+**🤖 &nbsp;Core AI · ML · Deep Learning**
 
-<br/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=D00000"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
 
-**🧬 &nbsp;Generative AI & LLM Ecosystem**
+</td></tr>
+<tr><td align="center" colspan="2">
 
-<img src="https://skillicons.dev/icons?i=openai&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=00FFD4&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=CC785C&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=A78BFA&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=00D4AA&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=databricks&logoColor=FF6B35&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=ffffff&labelColor=111111" height="48"/>
+<!-- ── ROW 2: GenAI / LLM ── -->
+**🧬 &nbsp;Generative AI · LLMs · Vector DBs**
 
-<br/>
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=412991"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00FFD4"/>
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21F"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=CC785C"/>
+<img src="https://img.shields.io/badge/LlamaIndex-0D1117?style=for-the-badge&logo=llamaindex&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logo=pinecone&logoColor=00D4AA"/>
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=databricks&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
 
-**📊 &nbsp;Data Science & Analytics**
+</td></tr>
+<tr><td align="center" colspan="2">
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,pytorch,matplotlib&theme=dark&perline=6" />
-&nbsp;
-<img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=Tableau&logoColor=E97627&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PowerBI-000000?style=flat-square&logo=powerbi&logoColor=F2C811&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Plotly-000000?style=flat-square&logo=plotly&logoColor=636EFA&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<!-- ── ROW 3: Data Science ── -->
+**📊 &nbsp;Data Science · Analytics · BI**
 
-<br/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=11557C"/>
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=4C8CBF"/>
+<img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=636EFA"/>
+<img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
-**☁️ &nbsp;Cloud, MLOps & Infrastructure**
+</td></tr>
+<tr><td align="center" colspan="2">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,fastapi,flask,git,github&theme=dark&perline=7" />
-&nbsp;
-<img src="https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow&logoColor=0194E2&labelColor=111111" height="48"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
+<!-- ── ROW 4: Cloud + MLOps ── -->
+**☁️ &nbsp;Cloud · MLOps · Infrastructure**
+
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=0194E2"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+
+</td></tr>
+</table>
 
 </div>
 
