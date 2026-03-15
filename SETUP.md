@@ -1,71 +1,105 @@
-# 📦 GitHub Profile Portfolio — Setup Guide
-
-This folder is your complete GitHub profile repository.
+# 🚀 GitHub Profile Portfolio — Complete Setup Guide
 
 ---
 
-## 🚀 How to Upload
+## 📦 Folder Structure
 
-1. Go to **github.com/new** and create a repository named exactly: `piyushpathak03`
-   - ✅ Make it **Public**
-   - ✅ **Do NOT** initialize with a README (you already have one)
-
-2. Upload the `README.md` file from this folder into that repository.
-
-3. Visit `github.com/piyushpathak03` — your portfolio is live instantly!
+```
+piyushpathak03/                    ← Upload THIS entire folder as your repo
+├── README.md                      ← Your profile page (auto-renders on GitHub)
+├── SETUP.md                       ← This guide
+└── .github/
+    └── workflows/
+        └── snake.yml              ← Auto-generates the contribution snake animation
+```
 
 ---
 
-## 🖼️ Dynamic Images — How They Work
+## ⚡ Step 1 — Create Your Profile Repository
 
-All images in the README are **external CDN URLs** — they render live automatically on GitHub. No files needed.
+1. Go to **https://github.com/new**
+2. Repository name: **`piyushpathak03`** ← must match your GitHub username exactly
+3. Set to **Public**
+4. ✅ Do **NOT** tick "Initialize with README"
+5. Click **Create repository**
 
-| Widget | CDN Service | What It Shows |
+---
+
+## 📤 Step 2 — Upload Files
+
+### Option A — GitHub Web UI (easiest)
+1. After creating the repo, click **"uploading an existing file"**
+2. Drag and drop **all files and folders** from this zip (keep the folder structure)
+3. Commit to `main`
+
+### Option B — Git CLI
+```bash
+cd piyushpathak03          # this folder
+git init
+git remote add origin https://github.com/piyushpathak03/piyushpathak03.git
+git add .
+git commit -m "🚀 Initial portfolio setup"
+git branch -M main
+git push -u origin main
+```
+
+---
+
+## 🐍 Step 3 — Enable Contribution Snake (2 minutes)
+
+The snake animation uses GitHub Actions. After pushing files:
+
+1. Go to your repo → **Settings** → **Actions** → **General**
+2. Under *Workflow permissions* → select **"Read and write permissions"** → Save
+3. Go to **Actions** tab → click **"Generate Contribution Snake"** → **"Run workflow"**
+4. Wait ~1 minute — the snake SVGs are generated in an `output` branch
+5. ✅ Snake now appears in your README automatically!
+
+> The workflow also runs automatically every 12 hours to keep the snake updated.
+
+---
+
+## 🖼️ Dynamic Widgets — All Auto-Update
+
+Every image in the README is a live CDN widget. No setup needed — they pull your real GitHub data automatically.
+
+| Widget | Service | Updates |
 |---|---|---|
-| **Header / Footer Banner** | `capsule-render.vercel.app` | Animated waving gradient banner |
-| **Typing Animation** | `readme-typing-svg.demolab.com` | Cycling role titles, animated |
-| **GitHub Stats Card** | `github-readme-stats.vercel.app` | Stars, commits, PRs, issues |
-| **Top Languages Card** | `github-readme-stats.vercel.app` | Your most-used languages |
-| **Streak Stats** | `streak-stats.demolab.com` | Current streak, longest streak |
-| **Activity Graph** | `github-readme-activity-graph.vercel.app` | Contribution heatmap graph |
-| **Trophy Shelf** | `github-profile-trophy.vercel.app` | Auto-earned GitHub trophies |
-| **Profile Views Counter** | `komarev.com/ghpvc` | Live visitor count badge |
-
-> ✅ All widgets automatically use your username `piyushpathak03` — no token or login required.
-
----
-
-## ✏️ How to Customise
-
-### Change your typing lines
-Find this block in `README.md`:
-```
-&lines=🤖+Generative+AI+Manager...
-```
-Edit the text after each `;` separator. Use `+` for spaces and encode special chars with `%XX`.
-
-### Change banner text / colors
-The `capsule-render` URL parameters:
-- `text=` → your display name
-- `desc=` → subtitle
-- `customColorList=` → gradient preset (try 2, 3, 12, 24)
-
-### Update project links
-Replace the GitHub repo URLs in the **Featured Projects** section with your actual repo slugs.
+| Header / Footer Banner | `capsule-render.vercel.app` | Static (always renders) |
+| Typing Animation | `readme-typing-svg.demolab.com` | Static (always renders) |
+| GitHub Stats Card | `github-readme-stats.vercel.app` | Every few hours |
+| Top Languages | `github-readme-stats.vercel.app` | Every few hours |
+| Streak Stats | `streak-stats.demolab.com` | Daily |
+| Activity Graph | `github-readme-activity-graph.vercel.app` | Daily |
+| Trophy Shelf | `github-profile-trophy.vercel.app` | Daily |
+| Profile Views | `komarev.com/ghpvc` | Real-time |
+| Quote Card | `quotes-github-readme.vercel.app` | Static |
+| Contribution Snake | GitHub Actions → `output` branch | Every 12 hours |
+| Repo Pin Cards | `github-readme-stats.vercel.app` | Every few hours |
 
 ---
 
-## 📁 Folder Contents
+## ✏️ Customisation Tips
 
-```
-piyushpathak03/
-├── README.md        ← Upload this to your GitHub profile repo
-└── SETUP.md         ← This guide (keep locally, don't need to upload)
-```
+### 🎨 Change banner color gradient
+In `README.md`, find `customColorList=0,2,2,5,30` and try:
+- `0,2,2,5,30` → Blue/Purple (current — cool tech vibe)
+- `6,11,20` → Deep navy
+- `12,20,27` → Green neon
+- `24,25,26` → Red/orange fire
+
+### ⌨️ Change typing lines
+Find `&lines=` in the typing SVG URLs. Each line is separated by `;`. Use `+` for spaces.
+
+### 🃏 Add/change pinned repo cards
+Replace `&repo=REPO_NAME` in the `github-readme-stats` pin URLs with your actual repository names.
 
 ---
 
-## 🔒 No Tokens or Secrets Needed
+## ✅ Checklist
 
-All widgets are public CDN services — they pull your GitHub public data automatically.
-No API keys, no GitHub Actions, no secrets required.
+- [ ] Created repo named `piyushpathak03`
+- [ ] Uploaded `README.md` and `.github/workflows/snake.yml`
+- [ ] Enabled "Read and write permissions" in Actions settings
+- [ ] Ran the snake workflow manually once
+- [ ] Visited `github.com/piyushpathak03` to confirm it looks great!
