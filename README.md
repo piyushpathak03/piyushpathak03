@@ -12,7 +12,7 @@
 
 <!-- ░░ TYPING ANIMATION ░░ -->
 <a href="https://github.com/piyushpathak03">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00FFD4&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+Generative+AI+Manager+%7C+9%2B+Years+Experience;🧠+LLMs+·+RAG+·+Agentic+AI+·+Fine-Tuning;🔬+ML+·+Deep+Learning+·+Computer+Vision+·+NLP;🚀+Deploying+AI+at+Fortune+500+Scale;💡+500%2B+Open-Source+AI+Projects+on+GitHub;⚙️+From+Research+Paper+→+Production+System" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00FFD4&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+Generative+AI+Manager+%7C+9%2B+Years+Experience;🧠+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Fine-Tuning;🔬+ML+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP;🚀+Deploying+AI+at+Fortune+500+Scale;💡+500%2B+Open-Source+AI+Projects+on+GitHub;%E2%9A%99%EF%B8%8F+From+Research+Paper+to+Production+System" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -393,6 +393,6 @@ location     : Gurgaon, India
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FFD4&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+GenAI%2C+MLOps+%26+AI+consulting;🚀+Let's+build+intelligent+systems+together!" alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FFD4&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+GenAI%2C+MLOps+%26+AI+consulting;🚀+Let%27s+build+intelligent+systems+together!" alt="Footer Typing" />
 
 </div>
