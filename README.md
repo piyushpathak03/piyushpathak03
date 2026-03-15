@@ -105,51 +105,53 @@ print(me.mission())
 
 <div align="center">
 
-### 🤖 &nbsp;AI / ML / Deep Learning
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+**🤖 &nbsp;Core AI / ML / Deep Learning**
 
-### 🧬 &nbsp;Generative AI & LLM Ecosystem
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00D4FF"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,keras,opencv&theme=dark&perline=6" />
 
-### 📊 &nbsp;Data Science & Analytics
-<p>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<br/>
 
-### ☁️ &nbsp;Cloud, MLOps & Infrastructure
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+**🧬 &nbsp;Generative AI & LLM Ecosystem**
+
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=00FFD4&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=CC785C&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=A78BFA&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=00D4AA&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=databricks&logoColor=FF6B35&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=ffffff&labelColor=111111" height="48"/>
+
+<br/>
+
+**📊 &nbsp;Data Science & Analytics**
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,pytorch,matplotlib&theme=dark&perline=6" />
+&nbsp;
+<img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=Tableau&logoColor=E97627&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PowerBI-000000?style=flat-square&logo=powerbi&logoColor=F2C811&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Plotly-000000?style=flat-square&logo=plotly&logoColor=636EFA&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<br/>
+
+**☁️ &nbsp;Cloud, MLOps & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,fastapi,flask,git,github&theme=dark&perline=7" />
+&nbsp;
+<img src="https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow&logoColor=0194E2&labelColor=111111" height="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
 
 </div>
 
@@ -168,7 +170,7 @@ print(me.mission())
 <td width="50%" valign="top">
 
 ### 🗂️ 500+ AI · ML · DL · CV · NLP Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=500-AI-Machine-learning-project-with-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/500-AI-Machine-learning-project-with-code)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=500-AI-ML-DL-CV-NLP-projects-with-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/500-AI-ML-DL-CV-NLP-projects-with-code)
 
 > 🌐 The most comprehensive open-source AI compendium — 500+ end-to-end implementations across every AI domain.
 
@@ -199,8 +201,8 @@ print(me.mission())
 </td>
 <td width="50%" valign="top">
 
-### 🧠 NLP Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=NLP-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/NLP-project)
+### 🧠 NLP & Pre-trained Models
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=pre_trained_model_NLP_Audio_CV&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV)
 
 > 💬 Full NLP pipeline collection — transformers, NER, summarization, embeddings, text classification.
 
