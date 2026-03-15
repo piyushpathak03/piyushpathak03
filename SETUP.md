@@ -1,78 +1,71 @@
-# 🚀 Setup Guide — Piyush Pathak GitHub Portfolio V3
+# 📦 GitHub Profile Portfolio — Setup Guide
 
-## 📁 What's Inside
-
-```
-piyushpathak03_v3/
-├── README.md                        ← Your live profile page
-├── SETUP.md                         ← This file (keep local, no need to upload)
-└── .github/
-    └── workflows/
-        └── snake.yml                ← Auto-generates contribution snake every 12h
-```
+This folder is your complete GitHub profile repository.
 
 ---
 
-## ⚡ Deploy in 3 Steps
+## 🚀 How to Upload
 
-### Step 1 — Create Profile Repository
-1. Go to **https://github.com/new**
-2. Name: **`piyushpathak03`** (must exactly match your username)
-3. Visibility: **Public**
-4. Do **NOT** initialise with README
-5. Click **Create repository**
+1. Go to **github.com/new** and create a repository named exactly: `piyushpathak03`
+   - ✅ Make it **Public**
+   - ✅ **Do NOT** initialize with a README (you already have one)
 
-### Step 2 — Upload Files
-**Option A: Web UI**
-- Click "uploading an existing file" in the new repo
-- Drag the entire `piyushpathak03_v3` folder contents (keep folder structure)
-- Commit to `main`
+2. Upload the `README.md` file from this folder into that repository.
 
-**Option B: Git CLI**
-```bash
-cd piyushpathak03_v3
-git init
-git remote add origin https://github.com/piyushpathak03/piyushpathak03.git
-git add .
-git commit -m "🚀 Ultra premium portfolio V3"
-git branch -M main
-git push -u origin main
-```
-
-### Step 3 — Activate Snake Animation (2 min)
-1. Repo → **Settings** → **Actions** → **General**
-2. Under *Workflow permissions* → **Read and write permissions** → Save
-3. Go to **Actions** tab → **Generate Contribution Snake** → **Run workflow**
-4. Done — snake appears within 60 seconds ✅
+3. Visit `github.com/piyushpathak03` — your portfolio is live instantly!
 
 ---
 
-## 🖼️ Dynamic Widgets Reference
+## 🖼️ Dynamic Images — How They Work
 
-| Widget | CDN | Auto-Updates |
+All images in the README are **external CDN URLs** — they render live automatically on GitHub. No files needed.
+
+| Widget | CDN Service | What It Shows |
 |---|---|---|
-| Header / Footer | `capsule-render.vercel.app` | Static render |
-| Typing animations | `readme-typing-svg.demolab.com` | Static render |
-| Skill icons grid | `skillicons.dev` | Static render |
-| GitHub Stats card | `github-readme-stats.vercel.app` | Every few hours |
-| Top Languages (donut) | `github-readme-stats.vercel.app` | Every few hours |
-| Streak stats | `streak-stats.demolab.com` | Daily |
-| Activity graph | `github-readme-activity-graph.vercel.app` | Daily |
-| Trophy shelf | `github-profile-trophy.vercel.app` | Daily |
-| Repo pin cards | `github-readme-stats.vercel.app` | Every few hours |
-| Profile views counter | `komarev.com/ghpvc` | Real-time |
-| Random quote card | `quotes-github-readme.vercel.app` | Each page load |
-| Contribution snake | GitHub Actions → `output` branch | Every 12 hours |
+| **Header / Footer Banner** | `capsule-render.vercel.app` | Animated waving gradient banner |
+| **Typing Animation** | `readme-typing-svg.demolab.com` | Cycling role titles, animated |
+| **GitHub Stats Card** | `github-readme-stats.vercel.app` | Stars, commits, PRs, issues |
+| **Top Languages Card** | `github-readme-stats.vercel.app` | Your most-used languages |
+| **Streak Stats** | `streak-stats.demolab.com` | Current streak, longest streak |
+| **Activity Graph** | `github-readme-activity-graph.vercel.app` | Contribution heatmap graph |
+| **Trophy Shelf** | `github-profile-trophy.vercel.app` | Auto-earned GitHub trophies |
+| **Profile Views Counter** | `komarev.com/ghpvc` | Live visitor count badge |
 
-> All widgets use your username `piyushpathak03` — no tokens, no secrets needed.
+> ✅ All widgets automatically use your username `piyushpathak03` — no token or login required.
 
 ---
 
-## ✅ Go-Live Checklist
+## ✏️ How to Customise
 
-- [ ] Repo named `piyushpathak03` created (Public)
-- [ ] `README.md` uploaded to root
-- [ ] `.github/workflows/snake.yml` uploaded (preserving folder path)
-- [ ] Actions → Workflow permissions set to Read & Write
-- [ ] Snake workflow triggered manually once
-- [ ] Visit `github.com/piyushpathak03` — 🎉 live!
+### Change your typing lines
+Find this block in `README.md`:
+```
+&lines=🤖+Generative+AI+Manager...
+```
+Edit the text after each `;` separator. Use `+` for spaces and encode special chars with `%XX`.
+
+### Change banner text / colors
+The `capsule-render` URL parameters:
+- `text=` → your display name
+- `desc=` → subtitle
+- `customColorList=` → gradient preset (try 2, 3, 12, 24)
+
+### Update project links
+Replace the GitHub repo URLs in the **Featured Projects** section with your actual repo slugs.
+
+---
+
+## 📁 Folder Contents
+
+```
+piyushpathak03/
+├── README.md        ← Upload this to your GitHub profile repo
+└── SETUP.md         ← This guide (keep locally, don't need to upload)
+```
+
+---
+
+## 🔒 No Tokens or Secrets Needed
+
+All widgets are public CDN services — they pull your GitHub public data automatically.
+No API keys, no GitHub Actions, no secrets required.
