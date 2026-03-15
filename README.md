@@ -1,398 +1,429 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  PIYUSH PATHAK — GITHUB PROFILE              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--
+███████████████████████████████████████████████████████████████████████
+██                                                                     ██
+██          PIYUSH PATHAK  ·  GITHUB PROFILE  ·  V3  ULTRA            ██
+██                                                                     ██
+███████████████████████████████████████████████████████████████████████
+-->
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 1 · HERO HEADER                  -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Piyush%20Pathak&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Generative%20AI%20Manager%20%7C%20LLM%20Architect%20%7C%20Data%20Scientist%20%7C%20MLOps%20Engineer&descAlignY=60&descSize=18&descColor=a0d8ff&stroke=00FFD4&strokeWidth=1.5"/>
 
 <div align="center">
 
-<!-- ░░ ANIMATED HEADER BANNER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Piyush%20Pathak&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Generative%20AI%20Manager%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Architect&descAlignY=58&descSize=17&descColor=a0d8ff&stroke=ffffff&strokeWidth=2"/>
+<!-- Animated role ticker -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2600&pause=600&color=00FFD4&center=true&vCenter=true&random=false&width=780&height=60&lines=⚡+9%2B+Years+Building+Production+AI+Systems;🧠+LLMs+·+RAG+·+Agentic+AI+·+Fine-Tuning;🔬+ML+·+DL+·+Computer+Vision+·+NLP+at+Scale;🌍+Fortune+500+AI+Solution+Architecture;💡+500%2B+Open-Source+AI+%2F+ML+Projects" alt="Typing SVG"/>
 
-<!-- ░░ NEON DIVIDER ░░ -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br/>
 
-<!-- ░░ TYPING ANIMATION ░░ -->
-<a href="https://github.com/piyushpathak03">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00FFD4&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+Generative+AI+Manager+%7C+9%2B+Years+Experience;🧠+LLMs+·+RAG+·+Agentic+AI+·+Fine-Tuning;🔬+ML+·+Deep+Learning+·+Computer+Vision+·+NLP;🚀+Deploying+AI+at+Fortune+500+Scale;💡+500%2B+Open-Source+AI+Projects+on+GitHub;⚙️+From+Research+Paper+→+Production+System" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- ░░ BADGES ROW 1 — Social ░░ -->
-<a href="https://www.linkedin.com/in/piyushpathak03/">
-  <img src="https://img.shields.io/badge/LinkedIn-Piyush%20Pathak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/piyushpathak03">
-  <img src="https://img.shields.io/badge/GitHub-piyushpathak03-white?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=58a6ff"/>
-</a>
-<a href="https://github.com/piyushpathak03?tab=followers">
-  <img src="https://img.shields.io/github/followers/piyushpathak03?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=piyushpathak03&color=00FFD4&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
+<!-- Live social + status badges -->
+<a href="https://linkedin.com/in/piyushpathak03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/piyushpathak03"><img src="https://img.shields.io/badge/GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<img src="https://img.shields.io/github/followers/piyushpathak03?label=Followers&style=for-the-badge&color=00FFD4&labelColor=0D1117&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=piyushpathak03&color=FF6B6B&style=for-the-badge&label=Profile+Views&labelColor=0D1117"/>
 
 <br/><br/>
 
-<!-- ░░ BADGES ROW 2 — Status ░░ -->
-<img src="https://img.shields.io/badge/🔭%20Currently-Building%20Agentic%20AI%20Systems-00FFD4?style=flat-square&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🌱%20Exploring-Multimodal%20LLMs%20%26%20AI%20Agents-FF6B6B?style=flat-square&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-GenAI%20%7C%20MLOps%20%7C%20LLMs-A78BFA?style=flat-square&labelColor=0D1117"/>
+<!-- Status pills -->
+<img src="https://img.shields.io/badge/🔭_Currently-Agentic%20AI%20%26%20LLM%20Systems-00FFD4?style=flat-square&labelColor=161B22&color=00FFD4"/>
+<img src="https://img.shields.io/badge/🌱_Exploring-Multimodal%20LLMs%20%26%20RAG%20Architectures-A78BFA?style=flat-square&labelColor=161B22&color=A78BFA"/>
+<img src="https://img.shields.io/badge/⚡_Open%20to-GenAI%20Consulting%20%26%20AI%20Product%20Collab-FF6B6B?style=flat-square&labelColor=161B22&color=FF6B6B"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════ -->
-<!--         ANIMATED SEPARATOR            -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--             ABOUT ME                  -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 2 · WHO AM I                     -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Me
+<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding animation"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;Who Am I
 
 ```python
 #!/usr/bin/env python3
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ════════════════════════════════════════════════
 
 class PiyushPathak:
 
-    def __init__(self):
-        self.name        = "Piyush Pathak"
-        self.role        = "Generative AI Manager"
-        self.experience  = "9+ Years"
-        self.location    = "📍 Gurgaon, India"
-        self.timezone    = "IST (UTC +5:30)"
+    role        = "Generative AI Manager"
+    experience  = "9+ Years"
+    location    = "📍 Gurgaon, India  ·  IST (UTC+5:30)"
+    clients     = "Fortune 500 Organisations"
 
-    @property
-    def expertise(self):
-        return {
-            "GenAI"    : ["LLMs", "RAG", "Agentic AI", "Fine-Tuning"],
-            "ML / DL"  : ["Deep Learning", "AutoML", "MLOps"],
-            "NLP"      : ["Transformers", "NER", "Summarization"],
-            "CV"       : ["Object Detection", "Segmentation"],
-            "Data"     : ["Analytics", "BI", "Predictive Models"],
-        }
-
-    @property
-    def stack(self):
-        return ["Python", "TensorFlow", "PyTorch", "LangChain",
-                "OpenAI", "HuggingFace", "FastAPI", "Docker",
-                "MySQL", "Tableau", "Power BI", "AWS"]
+    expertise = {
+        "GenAI"   : ["LLMs", "RAG Pipelines", "Agentic AI", "Fine-Tuning"],
+        "ML/DL"   : ["Deep Learning", "AutoML", "Transfer Learning"],
+        "NLP"     : ["Transformers", "NER", "Summarization", "Embeddings"],
+        "Vision"  : ["Object Detection", "Segmentation", "OpenCV"],
+        "Data"    : ["Predictive Analytics", "BI", "EDA", "Feature Eng."],
+        "MLOps"   : ["Model Serving", "Pipelines", "Docker", "SageMaker"],
+    }
 
     def mission(self):
-        return "⚡ Research → Production AI at Fortune 500 Scale"
+        return "⚡ Research Paper  →  Production AI  →  Business Impact"
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-me = PiyushPathak()
-print(me.mission())
-# ⚡ Research → Production AI at Fortune 500 Scale
+# ════════════════════════════════════════════════
+print(PiyushPathak().mission())
 ```
 
 <br clear="right"/>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--          TECH STACK SHOWCASE          -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 3 · AI SPECIALISATION MAP        -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Stack & Tools
+## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="35"/> &nbsp;AI Specialisation Matrix
 
 <div align="center">
 
-### 🤖 &nbsp;AI / ML / Deep Learning
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### 🧬 &nbsp;Generative AI & LLM Ecosystem
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00D4FF"/>
-</p>
-
-### 📊 &nbsp;Data Science & Analytics
-<p>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### ☁️ &nbsp;Cloud, MLOps & Infrastructure
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+<table>
+<thead>
+<tr>
+<th>🤖 Generative AI</th>
+<th>🧠 ML · Deep Learning</th>
+<th>💬 NLP</th>
+<th>👁️ Computer Vision</th>
+<th>⚙️ MLOps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LLM Fine-Tuning</td><td>Neural Networks</td><td>Transformers</td><td>Object Detection</td><td>Model Serving</td>
+</tr>
+<tr>
+<td>RAG Architecture</td><td>Ensemble Methods</td><td>NER · POS</td><td>Segmentation</td><td>Docker · K8s</td>
+</tr>
+<tr>
+<td>Agentic AI</td><td>XGBoost / LightGBM</td><td>Summarization</td><td>Face Recognition</td><td>MLflow · SageMaker</td>
+</tr>
+<tr>
+<td>Prompt Engineering</td><td>AutoML Pipelines</td><td>Embeddings</td><td>Video Analysis</td><td>CI/CD for ML</td>
+</tr>
+<tr>
+<td>Vector Databases</td><td>Transfer Learning</td><td>Semantic Search</td><td>Image Classification</td><td>Feature Stores</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--         FEATURED PROJECTS             -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 4 · TECH ARSENAL                 -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Featured Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> &nbsp;Tech Arsenal
+
+<div align="center">
+
+<!-- Row 1: Core AI/ML -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=opencv,keras,fastapi,flask&theme=dark"/>
+
+<br/><br/>
+
+<!-- Row 2: GenAI Stack -->
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00FFD4&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Pinecone-00D4AA?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00FFD4&labelColor=0D1117"/>
+
+<br/><br/>
+
+<!-- Row 3: Data + BI -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
+
+<br/><br/>
+
+<!-- Row 4: Cloud + Infra -->
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117"/>
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 5 · IMPACT COUNTER              -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+## 🎯 &nbsp;Impact at a Glance
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🗂️ 500+ AI · ML · DL · CV · NLP Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=500-AI-Machine-learning-project-with-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/500-AI-Machine-learning-project-with-code)
-
-> 🌐 The most comprehensive open-source AI compendium — 500+ end-to-end implementations across every AI domain.
-
-`Python` `TensorFlow` `PyTorch` `OpenCV` `HuggingFace`
-
+<td align="center">
+<img src="https://img.shields.io/badge/9%2B_Years-Full--Stack%20AI%20Delivery-00FFD4?style=for-the-badge&labelColor=0D1117&logo=rocket"/>
 </td>
-<td width="50%" valign="top">
-
-### ⚡ Automated Machine Learning
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=Automated-Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/Automated-Machine-Learning)
-
-> 🚀 End-to-end AutoML pipeline — data ingestion → model selection → tuning → deployment in one flow.
-
-`AutoKeras` `TPOT` `H2O.ai` `Scikit-learn` `Python`
-
+<td align="center">
+<img src="https://img.shields.io/badge/500%2B_Projects-Open--Source%20AI%20Compendium-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=github"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Fortune_500-Global%20Client%20Delivery-A78BFA?style=for-the-badge&labelColor=0D1117&logo=briefcase"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/10×-AutoML%20Speed%20Gain-FFD700?style=for-the-badge&labelColor=0D1117&logo=zap"/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🚀 Model Deployment Frameworks
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=Model-Deployment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/Model-Deployment)
-
-> 🔧 Production ML model serving — TF Serving, MLflow, Cortex, SageMaker, cloud-native microservices.
-
-`Docker` `FastAPI` `TensorRT` `SageMaker` `MLflow`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 NLP Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=NLP-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF)](https://github.com/piyushpathak03/NLP-project)
-
-> 💬 Full NLP pipeline collection — transformers, NER, summarization, embeddings, text classification.
-
-`Transformers` `HuggingFace` `BERT` `spaCy` `NLTK`
-
-</td>
+<td align="center"><sub>DS · ML · DL · GenAI · LLMs</sub></td>
+<td align="center"><sub>Every AI domain covered</sub></td>
+<td align="center"><sub>Enterprise-grade solutions</sub></td>
+<td align="center"><sub>Iteration cycle reduction</sub></td>
 </tr>
 </table>
 
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--         GITHUB ANALYTICS              -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 6 · FEATURED PROJECTS           -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"/> &nbsp;Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushpathak03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=00FFD4&text_color=FFFFFF&border_radius=10"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpathak03&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&text_color=FFFFFF&border_radius=10"/>
+<a href="https://github.com/piyushpathak03/500-AI-Machine-learning-project-with-code">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=500-AI-Machine-learning-project-with-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=A78BFA&text_color=FFFFFF&border_radius=12"/>
+</a>
+<a href="https://github.com/piyushpathak03/Automated-Machine-Learning">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=Automated-Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=A78BFA&text_color=FFFFFF&border_radius=12"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/piyushpathak03/Model-Deployment">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=Model-Deployment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&border_radius=12"/>
+</a>
+<a href="https://github.com/piyushpathak03/NLP-project">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=NLP-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&border_radius=12"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/piyushpathak03/AI-algorithm">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=AI-algorithm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_radius=12"/>
+</a>
+<a href="https://github.com/piyushpathak03?tab=repositories">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushpathak03&repo=piyushpathak03&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_radius=12"/>
+</a>
 
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 7 · GITHUB STATS TRIO           -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/> &nbsp;GitHub Intelligence Dashboard
+
 <div align="center">
+
+<!-- Stats + Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushpathak03&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&icon_color=A78BFA&text_color=FFFFFF&ring_color=00FFD4&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpathak03&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD4&text_color=FFFFFF&border_radius=12"/>
+
+</div>
+
 <br/>
-<img width="70%" src="https://streak-stats.demolab.com/?user=piyushpathak03&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD4&fire=FF6B6B&currStreakLabel=00FFD4&sideLabels=00FFD4&dates=AAAAAA&border_radius=10"/>
+
+<div align="center">
+
+<!-- Streak — full width centred -->
+<img width="68%" src="https://streak-stats.demolab.com/?user=piyushpathak03&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD4&fire=FF6B6B&currStreakLabel=00FFD4&sideLabels=A78BFA&dates=888888&border_radius=12"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyushpathak03&bg_color=0D1117&color=00FFD4&line=00FFD4&point=FFFFFF&area=true&area_color=003D33&hide_border=true&radius=8" alt="Contribution Graph"/>
+
+<!-- Full-width activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyushpathak03&bg_color=0D1117&color=00FFD4&line=A78BFA&point=FF6B6B&area=true&area_color=001a14&hide_border=true&radius=8&custom_title=Piyush's%20Contribution%20Timeline"/>
+
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--           TROPHIES                    -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 8 · TROPHIES                    -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏆 &nbsp;Achievement Vault
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=piyushpathak03&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=piyushpathak03&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--        CONTRIBUTION SNAKE             -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 9 · CONTRIBUTION SNAKE          -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## 🐍 &nbsp;Contribution Snake
+## 🐍 &nbsp;Contributions Alive
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/piyushpathak03/piyushpathak03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚡ *Enable the snake animation — see [SETUP.md](./SETUP.md) for the 2-minute GitHub Actions setup*
+<sub>⚡ Auto-regenerates every 12 hours via GitHub Actions — see <a href="./SETUP.md">SETUP.md</a> to activate in 2 minutes</sub>
 
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--         IMPACT METRICS                -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 10 · EXPERIENCE TIMELINE        -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## 📈 &nbsp;Career Impact & Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/9%2B-Years%20Experience-00FFD4?style=for-the-badge&labelColor=0D1117" /><br/>
-<sub>Full-Stack AI Delivery</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/500%2B-AI%20Projects-FF6B6B?style=for-the-badge&labelColor=0D1117" /><br/>
-<sub>Open-Source Compendium</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Fortune-500%20Clients-A78BFA?style=for-the-badge&labelColor=0D1117" /><br/>
-<sub>Global AI Solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/10×-Faster%20AutoML-FFD700?style=for-the-badge&labelColor=0D1117" /><br/>
-<sub>ML Iteration Cycles</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════ -->
-<!--       PROFESSIONAL EXPERIENCE         -->
-<!-- ═══════════════════════════════════════ -->
-
-## 💼 &nbsp;Professional Experience
+## 💼 &nbsp;Career Timeline
 
 <details>
-<summary><b>🏢 &nbsp;Generative AI Manager — Enterprise AI Leadership &nbsp;▸ click to expand</b></summary>
+<summary><b>🏢 &nbsp;Generative AI Manager &nbsp;·&nbsp; Enterprise AI Delivery &nbsp;·&nbsp; 9+ Years</b> &nbsp; ▸ expand</summary>
+
 <br/>
 
 ```yaml
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-role         : Generative AI Manager
-experience   : 9+ Years
-domain       : AI · Data Science · GenAI · LLMs
-client_type  : Global Fortune 500 Organisations
-location     : Gurgaon, India
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────────────────────────────
+  role        : Generative AI Manager
+  tenure      : 9+ Years
+  domain      : GenAI · LLMs · Data Science · MLOps
+  clients     : Fortune 500 — Global Organisations
+  location    : Gurgaon, India  (IST)
+──────────────────────────────────────────────────────
 ```
 
-**🔷 Key Responsibilities**
+| Pillar | What Was Delivered |
+|:---|:---|
+| 🧠 **AI Architecture** | End-to-end GenAI solution design — RAG, Agentic systems, fine-tuned LLMs |
+| ⚙️ **MLOps Pipelines** | Data ingestion → feature store → training → model registry → production |
+| 📊 **Analytics at Scale** | Descriptive · Predictive · Prescriptive analytics for enterprise clients |
+| 👥 **Team Leadership** | Cross-functional data science teams, technical roadmapping |
+| 🚀 **Product Delivery** | AI-powered products from PoC to global production deployment |
+| 💡 **AI Strategy** | Translating business problems into AI-first solutions |
 
-| Area | Deliverables |
-|------|-------------|
-| 🧠 **AI Architecture** | End-to-end GenAI solution design for Fortune 500 |
-| 🤖 **LLM Systems** | RAG pipelines, Agentic AI, fine-tuned LLMs |
-| ⚙️ **MLOps** | Scalable ML pipelines — ingestion → production serving |
-| 👥 **Leadership** | Data science team management & cross-functional AI delivery |
-| 📊 **Analytics** | Descriptive · Predictive · Prescriptive analytics at scale |
-| 💡 **Strategy** | Business → AI problem translation & roadmapping |
+**Core Stack Delivered in Production**
 
-**🛠️ Core Technologies**
-
-`Python` `TensorFlow` `PyTorch` `LangChain` `OpenAI` `Flask` `FastAPI` `MySQL` `Tableau` `Power BI` `AWS` `Docker` `Web Scraping`
+`Python` &nbsp;`TensorFlow` &nbsp;`PyTorch` &nbsp;`LangChain` &nbsp;`OpenAI` &nbsp;`FastAPI` &nbsp;`Flask` &nbsp;`MySQL` &nbsp;`Tableau` &nbsp;`Power BI` &nbsp;`AWS` &nbsp;`Docker` &nbsp;`Web Scraping`
 
 </details>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--       OPEN SOURCE CONTRIBUTIONS       -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 11 · OPEN SOURCE FOOTPRINT      -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## 🌐 &nbsp;Open Source Footprint
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> &nbsp;Open Source Footprint
 
 <div align="center">
 
-| 🏗️ Repository Domain | 🎯 What It Covers | 🌟 Significance |
-|:---|:---|:---|
-| **500+ AI/ML/DL/CV/NLP** | Every AI subdomain with code | Global reference resource |
-| **AutoML Frameworks** | Full pipeline automation | 10× faster model building |
-| **Model Deployment** | TF Serving · MLflow · Cortex · SageMaker | Lab → Production bridge |
-| **NLP Projects** | Transformers · NER · Summarization | Practical NLP library |
-| **AI Algorithms** | Classical → neural architectures | Algorithm implementation ref |
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                   OPEN SOURCE CONTRIBUTIONS                     │
+  ├──────────────────────┬───────────────────────┬──────────────────┤
+  │  500+ AI/ML Projects │  AutoML Frameworks    │  Model Serving   │
+  │  Every AI domain     │  End-to-end pipelines │  TF · MLflow     │
+  │  covered with code   │  10× faster builds    │  Cortex · AWS    │
+  ├──────────────────────┼───────────────────────┼──────────────────┤
+  │  NLP Pipelines       │  CV Projects          │  AI Algorithms   │
+  │  BERT · GPT · spaCy  │  YOLO · SAM · OpenCV  │  Classical → DNN │
+  │  Transformers ready  │  Detection+Segment    │  Full impl. lib  │
+  └──────────────────────┴───────────────────────┴──────────────────┘
+```
 
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════ -->
-<!--            CONNECT                    -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   SECTION 12 · CONNECT                    -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## 📬 &nbsp;Let's Build Something Great
+## 📡 &nbsp;Let's Build the Future of AI
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/piyushpathak03/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+<a href="https://linkedin.com/in/piyushpathak03">
+  <img src="https://img.shields.io/badge/LinkedIn-Hire%20Me%20%2F%20Collaborate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
-&nbsp;
-<a href="https://github.com/piyushpathak03">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+&nbsp;&nbsp;
+<a href="https://github.com/piyushpathak03?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20All%20Projects-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20AI%20systems%20are%20not%20just%20technically%20excellent%20%E2%80%94%20they%20create%20measurable%20human%20impact.&author=Piyush%20Pathak" width="80%" alt="Quote Card"/>
+<!-- Random quote card — refreshes on every page load -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="78%"/>
+
+<br/><br/>
+
+<!-- Wakatime-style "currently doing" pill -->
+<img src="https://img.shields.io/badge/Open%20to-GenAI%20Products%20·%20LLM%20Systems%20·%20MLOps%20Consulting-00FFD4?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ░░ FOOTER BANNER ░░ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   FOOTER                                   -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FFD4&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+GenAI%2C+MLOps+%26+AI+consulting;🚀+Let's+build+intelligent+systems+together!" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=⭐+Star+my+repos+if+they+spark+ideas!;🤝+Let's+build+intelligent+systems+together;🚀+Research+→+Production+→+Impact" alt="Footer Typing"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Python-FF6B6B?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Powered%20by-Generative%20AI-00FFD4?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Always-Learning-A78BFA?style=flat-square&labelColor=0D1117"/>
 
 </div>
